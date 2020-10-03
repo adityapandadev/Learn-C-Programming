@@ -15,7 +15,7 @@ Basic data types:
 #include<stdio.h>
 
 
-int main()
+int main() //The Main function starts from here
 {
     int integer_value = 34;  //here int is the data type amd will store the integer value 34
     char character = 'a'; // here char is the data type and will store the character value
@@ -29,5 +29,5 @@ int main()
     printf("The large decimal value is %lf \n",large_decimal_numbers);
 
 
-    return 0;
+    return 0; //it's a return type function so it returns a value
 }
