@@ -33,7 +33,7 @@ int main()
 {
     int num, count, sum = 0;
 
-    printf("Enter a positive integer: ");
+    printf("Enter a positive integer: "); //User must enter a positive number
     scanf("%d", &num);
 
     // for loop terminates when num is less than count
